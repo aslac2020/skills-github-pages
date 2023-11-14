@@ -1,8 +1,6 @@
----
-title: Welcome to my blog
+
 
 Bem-vindo ao nosso blog! Aqui você encontrará conteúdos interessantes, dicas úteis e informações relevantes. Fique à vontade para explorar e compartilhar nossos artigos com seus amigos. Divirta-se lendo!
-
 
 Nosso blog aborda uma variedade de temas interessantes e informativos. Aqui estão alguns exemplos de conteúdos que você pode encontrar:
 
@@ -16,5 +14,4 @@ Nosso blog aborda uma variedade de temas interessantes e informativos. Aqui est�
 
 5. Notícias e atualidades: Mantenha-se informado sobre os acontecimentos mais recentes ao redor do mundo, seja política, economia, cultura ou esportes.
 
----
 
